@@ -1,2 +1,2 @@
 # fingerSight
-python music
+python muzac
